@@ -2,7 +2,7 @@ version: 1
 services:
   - type: web
     name: phonebook-backend
-    env: node
+    runtime: node
     plan: free
     buildCommand: npm install
     startCommand: npm start
