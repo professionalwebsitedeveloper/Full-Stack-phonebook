@@ -48,7 +48,7 @@ The server will start on `http://localhost:3000`.
 
 ## Deployment
 
-The application is deployed on Render. You can access it [here](https://full-stack-phonebook-obhr.onrender.com/api/persons).
+The application is deployed on Render. You can access it (https://full-stack-phonebook-obhr.onrender.com/api/persons).
 
 ## License
 
@@ -56,7 +56,7 @@ This project is licensed under the MIT License.
 
 Online application: https://full-stack-phonebook-obhr.onrender.com/api/persons
 
-The application is deployed on Render. You can access it [here](https://full-stack-phonebook-obhr.onrender.com/).
+The application is deployed on Render. You can access it (https://full-stack-phonebook-obhr.onrender.com/).
 
 ## License
 
